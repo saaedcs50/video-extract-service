@@ -1,0 +1,8 @@
+{
+  "name": "Video Extract Service",
+  "description": "Standalone Node.js/Express service for extracting YouTube stream formats and token-authorized resumable streaming downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
